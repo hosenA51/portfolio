@@ -5,7 +5,7 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div className="flex items-center justify-center min-h-screen bg-black">
+        <div id='home' className="flex items-center justify-center min-h-screen bg-black">
             <div className="w-full lg:w-11/12">
                 <div className="flex flex-col md:flex-row">
                     {/* Left Side */}

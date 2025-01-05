@@ -1,14 +1,14 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link as ScrollLink } from 'react-scroll';
 
 const Navbar = () => {
 
     const links = <>
-        <li><Link>Home</Link></li>
-        <li><Link>About Me</Link></li>
-        <li><Link>Skills</Link></li>
-        <li><Link>My Project</Link></li>
-        <li><Link>Contact</Link></li>
+         <li><ScrollLink to="home" smooth={true} duration={500} className="cursor-pointer">Home</ScrollLink></li>
+        <li><ScrollLink to="about" smooth={true} duration={500} className="cursor-pointer">About Me</ScrollLink></li>
+        <li><ScrollLink to="skills" smooth={true} duration={500} className="cursor-pointer">Skills</ScrollLink></li>
+        <li><ScrollLink to="projects" smooth={true} duration={500} className="cursor-pointer">My Project</ScrollLink></li>
+        <li><ScrollLink to="contact" smooth={true} duration={500} className="cursor-pointer">Contact</ScrollLink></li>
     </>
     return (
         <div className='bg-gray-700'>

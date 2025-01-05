@@ -4,7 +4,7 @@ import Marquee from 'react-fast-marquee';
 
 const Skills = () => {
     return (
-        <div className="container mx-auto p-10 bg-black">
+        <div id="skills" className="container mx-auto p-10 bg-black">
             <h2 className="text-4xl font-bold text-center mb-8 text-orange-500">
                 My Skills
             </h2>
