@@ -7,6 +7,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import MainLayout from './components/MainLayout/MainLayout.jsx';
+import Home from './components/Home/Home.jsx';
 
 const router = createBrowserRouter([
   {
@@ -14,7 +15,8 @@ const router = createBrowserRouter([
     element: <MainLayout></MainLayout>,
     children: [
       {
-        path: ''
+        path: '/',
+        element: <Home></Home>
       }
     ]
   },

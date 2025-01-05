@@ -43,7 +43,13 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn hover:bg-[#FF6B00]">Download Resume</a>
+                    <a
+                        href="https://docs.google.com/document/d/1XziKeILc3HeKrvFo-S_4dYtIh2fY8BfhON-YpWPLs-0/export?format=pdf"
+                        download
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="btn hover:bg-[#FF6B00]"
+                    >Download Resume</a>
                 </div>
             </div>
         </div>
