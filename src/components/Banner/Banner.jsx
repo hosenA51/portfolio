@@ -13,7 +13,7 @@ const Banner = () => {
                     <h4 className='text-xl mb-4 text-[#FF6B00] font-semibold '>Front-End Developer</h4>
                         <h1 className="text-4xl font-bold text-white mb-4">Hosen Ahmed</h1>
                         <p className="text-gray-400 mb-6">
-                            "Hi, I am a Front-End Developer skilled in crafting responsive and dynamic web applications using React, JavaScript, and modern tools like Tailwind CSS and Daisy UI. I integrate secure authentication with Firebase and build scalable server-side solutions using MongoDB and Express.js. Let's create something amazing together!"
+                            "I am a Front-End Developer skilled in crafting responsive and dynamic web applications using React, JavaScript, and modern tools like Tailwind CSS and Daisy UI. I integrate secure authentication with Firebase and build scalable server-side solutions using MongoDB and Express.js. Let's create something amazing together!"
                         </p>
                         <div className="flex items-center gap-4 mb-6">
                             <a
