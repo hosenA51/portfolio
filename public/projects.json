@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/XYzGBBF/Screenshot-2025-01-05-122014.png",
+        "projectName": "Langopia",
+        "description": "Langopia is a language learning platform that allows users to create, edit, and delete tutorials in different languages. Users can also book tutorials, leave reviews, and manage their accounts. The platform aims to provide a seamless learning experience for language enthusiasts.",
+        "liveLink": "https://langopia-92be5.web.app",
+        "githubLink": "https://github.com/programming-hero-web-course2/b10a11-client-side-hosenA51",
+        "keyFeatures": [
+            "Language Tutorials: Users can create tutorials in various languages.",
+            "Tutorial Booking: Users can book specific tutorials for learning.",
+            "Review System: Users can leave reviews for tutorials.",
+            "User Account Management: Users can sign up, log in, and manage their accounts.",
+            "Tutorial Updates: Users can update their tutorials as needed.",
+            "Tutorial Delete: Users can delete their tutorials as needed."
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/j3k5r8y/Screenshot-2025-01-05-121853.png",
+        "projectName": "EquipZone",
+        "description": "EquipZone is a modern e-commerce platform designed for sports enthusiasts. The site features a user-friendly interface and provides a wide range of products, catering to all your sports equipment and accessory needs.",
+        "liveLink": "https://equip-zone.web.app",
+        "githubLink": "https://github.com/programming-hero-web-course2/b10-a10-client-side-hosenA51",
+        "keyFeatures": [
+            "Dynamic Product Categories: EquipZone showcases a wide variety of product categories, including Cricket Gear, Swimming Accessories, and more, making it easy for users to find their desired items.",
+            "User-Friendly Interface: Built with React and styled with Tailwind CSS, the website offers a seamless browsing and shopping experience.",
+            "Responsive Design: Fully optimized for mobile, tablet, and desktop devices, ensuring accessibility from any device.",
+            "Interactive Animations: Enhanced user experience with smooth animations powered by React Awesome Reveal.",
+            "Secure Authentication: User accounts are protected with Firebase authentication, providing secure login and registration.",
+            "Real-Time Updates: Live inventory and processing time for every product, ensuring transparency and up-to-date information.",
+            "Integrated Shopping Cart: Features an intuitive cart system, enabling users to effortlessly add, view, and manage products.",
+            "Customizable Products: Many products offer customization options like personalized engravings or design tweaks.",
+            "Optimized Performance: Built using Vite, the site ensures fast loading times and efficient resource management."
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/7nBwkK6/Screenshot-2025-01-05-122132.png",
+        "projectName": "Career Craft",
+        "description": "CareerCraft is a comprehensive career counseling platform designed to empower individuals in their professional journey. It offers a range of personalized services, including one-on-one counseling, resume reviews, skill enhancement workshops, and expert-led webinars. Built with React, React Router, and Firebase, the platform ensures seamless navigation, secure authentication, and efficient data management.",
+        "liveLink": "https://career-craft-755ed.web.app/",
+        "githubLink": "https://github.com/programming-hero-web-course1/b10-a9-authentication-hosenA51",
+        "keyFeatures": [
+            "All Services: Users can create services in various languages.",
+            "My Profile: Users can book specific services for learning.",
+            "My Planer: Users can create his daily plan."
+        ]
+    }
+]

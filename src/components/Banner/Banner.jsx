@@ -17,7 +17,7 @@ const Banner = () => {
                         </p>
                         <div className="flex items-center gap-4 mb-6">
                             <a
-                                href="https://github.com/yourusername"
+                                href="https://github.com/hosenA51"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-gray-400 hover:text-orange-500"
@@ -32,7 +32,7 @@ const Banner = () => {
                                 </svg>
                             </a>
                             <a
-                                href="https://facebook.com/yourusername"
+                                href="https://www.facebook.com/hosenahmed25/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-gray-400 hover:text-orange-500"
@@ -47,7 +47,7 @@ const Banner = () => {
                                 </svg>
                             </a>
                             <a
-                                href="https://twitter.com/yourusername"
+                                href="https://x.com/ahmed_hose1919"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-gray-400 hover:text-orange-500"
